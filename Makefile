@@ -10,5 +10,5 @@ main.o: main.cpp sum.h
 	g++ -c -o main.o main.cpp
 
 clean:
-	rm -f sum_test *.o
+	rm -f sum_test  *.o
 
